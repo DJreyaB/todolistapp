@@ -1,0 +1,3 @@
+go to store
+clean room
+clean other room
